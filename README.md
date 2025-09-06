@@ -1,6 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to BookStore app 👋
 
-This is an [BookStore App] created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
